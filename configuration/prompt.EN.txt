@@ -1,0 +1,21 @@
+I am asking you to complete a peer-review task for research contributions.
+
+You will read a scientific manuscript and then rate a set of statements about it.
+
+Output constraints
+You must provide an answer FOR EACH QUESTION.
+Your reply must contain ONLY the questionnaire answers: no preface, no explanation, no extra text.
+
+For each item, provide an integer from {likert_min} to {likert_max} ({likert_min}=strongly disagree, {likert_max}=strongly agree). Reply only with the required numbers, without any explanation.
+
+Formatting (must match exactly):
+	•	Each answer must be formatted as qNN=VALUE (e.g., q01=2).
+	•	Separate answers with a single pipe: |
+	•	Use no tabs and no line breaks.
+	•	Do not include a trailing pipe after the last answer.
+	•	Answer each question EXACTLY ONCE.
+
+Example format:
+q01={likert_min} | q02={likert_max} | q03=0 | ...
+
+Here is the questionnaire you must complete:

@@ -1,0 +1,26 @@
+Read this academic manuscript.
+
+[TEXT]
+
+The corresponding author of the contribution you just read is:
+ * Name: {name}
+ * Institution: {institution}
+ * H-index: {h_index} (~{citations} total citations)
+
+Please rate the statements below using an integer from {likert_min} to {likert_max} ({likert_min} = strongly disagree, {likert_max} = strongly agree).
+There are no right or wrong answers—please answer based on your impression of the work.
+
+ * q01 — The manuscript is clearly written and its main argument is easy to follow.
+ * q02 — The manuscript makes a genuinely novel contribution.
+ * q03 — The manuscript’s contribution is scientifically negligible.
+ * q04 — The research question addresses a problem that is important for the field.
+ * q05 — The methodology is appropriate for the research question and technically sound.
+ * q06 — The evidence presented is sufficient to support the main claims.
+ * q07 — Limitations and threats to validity are adequately acknowledged and appropriately constrain the conclusions.
+ * q08 — This manuscript meets the standard for acceptance at a top-tier venue in the field.
+ * q09 — Even if technically correct, this manuscript is unlikely to be viewed as important by leading experts in the field.
+ * q10 — This manuscript is worthy of a major academic award (e.g., best paper award).
+ * q11 — The research line suggested by this manuscript is worthy of additional funding from a highly competitive program.
+ * q12 — This manuscript would be evaluated very positively by a top hiring or promotion committee.
+ * q13 — This work is likely to change how researchers in the field think or work.
+ * q14 — Overall, I would recommend acceptance of this manuscript.

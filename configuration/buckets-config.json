@@ -1,0 +1,170 @@
+{
+  "buckets": [
+    {
+      "domain": "bio-short",
+      "kind": "paper",
+      "n": 50,
+      "categories": [
+                "q-bio.BM",
+                "q-bio.CB",
+                "q-bio.GN",
+                "q-bio.MN",
+                "q-bio.NC",
+                "q-bio.OT",
+                "q-bio.PE",
+                "q-bio.QM",
+                "q-bio.SC",
+                "q-bio.TO" 
+            ],
+      "days_back": 365,
+      "min_words": 1500,
+      "max_words": 3000,
+      "oversample_factor": 3,
+      "request_delay_s": 1.0,
+      "comment_phrase": "4 pages",
+      "use_submittedDate_filter": true
+    },
+    {
+      "domain": "cs-short",
+      "kind": "paper",
+      "n": 50,
+      "categories": [
+                "cs.AI", "cs.AR", "cs.CC", "cs.CE", "cs.CG", "cs.CL", "cs.CR", "cs.CV",
+                "cs.CY", "cs.DB", "cs.DC", "cs.DL", "cs.DM", "cs.DS", "cs.ET", "cs.FL",
+                "cs.GL", "cs.GR", "cs.GT", "cs.HC", "cs.IR", "cs.IT", "cs.LG", "cs.LO",
+                "cs.MA", "cs.MM", "cs.MS", "cs.NA", "cs.NE", "cs.NI", "cs.OH", "cs.OS",
+                "cs.PF", "cs.PL", "cs.RO", "cs.SC", "cs.SD", "cs.SE", "cs.SI", "cs.SY"
+            ],
+      "days_back": 365,
+      "min_words": 1500,
+      "max_words": 3000,
+      "oversample_factor": 3,
+      "request_delay_s": 1.0,
+      "comment_phrase": "4 pages",
+      "use_submittedDate_filter": true
+    },
+    {
+      "domain": "phy-short",
+      "kind": "paper",
+      "n": 50,
+      "categories": [
+            "physics.acc-ph", "physics.app-ph", "physics.ao-ph", "physics.atom-ph", 
+            "physics.atm-clus", "physics.bio-ph", "physics.chem-ph", "physics.class-ph", 
+            "physics.comp-ph", "physics.data-an", "physics.flu-dyn", "physics.gen-ph", 
+            "physics.geo-ph", "physics.hist-ph", "physics.ins-det", "physics.med-ph", 
+            "physics.optics", "physics.ed-ph", "physics.soc-ph", "physics.plasma-ph", 
+            "physics.pop-ph", "physics.space-ph"
+        ],
+      "days_back": 365,
+      "min_words": 1500,
+      "max_words": 3000,
+      "oversample_factor": 3,
+      "request_delay_s": 1.0,
+      "comment_phrase": "4 pages",
+      "use_submittedDate_filter": true
+    },
+    {
+      "domain": "math-short",
+      "kind": "paper",
+      "n": 50,
+      "categories": [
+            "math.AG", "math.AT", "math.AP", "math.CT", "math.CA", "math.CO", 
+            "math.AC", "math.CV", "math.DG", "math.DS", "math.FA", "math.GM", 
+            "math.GN", "math.GT", "math.GR", "math.HO", "math.IT", "math.KT", 
+            "math.LO", "math.MP", "math.MG", "math.NT", "math.NA", "math.OA", 
+            "math.OC", "math.PR", "math.QA", "math.RT", "math.RA", "math.SP", 
+            "math.ST"
+        ],
+      "days_back": 365,
+      "min_words": 1500,
+      "max_words": 3000,
+      "oversample_factor": 3,
+      "request_delay_s": 1.0,
+      "comment_phrase": "4 pages",
+      "use_submittedDate_filter": true
+    },    
+    {
+      "domain": "bio-long",
+      "kind": "paper",
+      "n": 50,
+      "categories": [
+                "q-bio.BM",
+                "q-bio.CB",
+                "q-bio.GN",
+                "q-bio.MN",
+                "q-bio.NC",
+                "q-bio.OT",
+                "q-bio.PE",
+                "q-bio.QM",
+                "q-bio.SC",
+                "q-bio.TO" 
+            ],
+      "days_back": 365,
+      "min_words": 4000,
+      "max_words": 15000,
+      "oversample_factor": 3,
+      "request_delay_s": 1.0,
+      "comment_phrase": "8 pages",
+      "use_submittedDate_filter": true
+    },
+    {
+      "domain": "cs-long",
+      "kind": "paper",
+      "n": 50,
+      "categories": [
+                "cs.AI", "cs.AR", "cs.CC", "cs.CE", "cs.CG", "cs.CL", "cs.CR", "cs.CV",
+                "cs.CY", "cs.DB", "cs.DC", "cs.DL", "cs.DM", "cs.DS", "cs.ET", "cs.FL",
+                "cs.GL", "cs.GR", "cs.GT", "cs.HC", "cs.IR", "cs.IT", "cs.LG", "cs.LO",
+                "cs.MA", "cs.MM", "cs.MS", "cs.NA", "cs.NE", "cs.NI", "cs.OH", "cs.OS",
+                "cs.PF", "cs.PL", "cs.RO", "cs.SC", "cs.SD", "cs.SE", "cs.SI", "cs.SY"
+            ],
+      "days_back": 365,
+      "min_words": 4000,
+      "max_words": 15000,
+      "oversample_factor": 3,
+      "request_delay_s": 1.0,
+      "comment_phrase": "8 pages",
+      "use_submittedDate_filter": true
+    },
+    {
+      "domain": "phy-long",
+      "kind": "paper",
+      "n": 50,
+      "categories": [
+            "physics.acc-ph", "physics.app-ph", "physics.ao-ph", "physics.atom-ph", 
+            "physics.atm-clus", "physics.bio-ph", "physics.chem-ph", "physics.class-ph", 
+            "physics.comp-ph", "physics.data-an", "physics.flu-dyn", "physics.gen-ph", 
+            "physics.geo-ph", "physics.hist-ph", "physics.ins-det", "physics.med-ph", 
+            "physics.optics", "physics.ed-ph", "physics.soc-ph", "physics.plasma-ph", 
+            "physics.pop-ph", "physics.space-ph"
+        ],
+      "days_back": 365,
+      "min_words": 4000,
+      "max_words": 15000,
+      "oversample_factor": 3,
+      "request_delay_s": 1.0,
+      "comment_phrase": "8 pages",
+      "use_submittedDate_filter": true
+    },
+    {
+      "domain": "math-long",
+      "kind": "paper",
+      "n": 50,
+      "categories": [
+            "math.AG", "math.AT", "math.AP", "math.CT", "math.CA", "math.CO", 
+            "math.AC", "math.CV", "math.DG", "math.DS", "math.FA", "math.GM", 
+            "math.GN", "math.GT", "math.GR", "math.HO", "math.IT", "math.KT", 
+            "math.LO", "math.MP", "math.MG", "math.NT", "math.NA", "math.OA", 
+            "math.OC", "math.PR", "math.QA", "math.RT", "math.RA", "math.SP", 
+            "math.ST"
+        ],
+      "days_back": 365,
+      "min_words": 4000,
+      "max_words": 15000,
+      "oversample_factor": 3,
+      "request_delay_s": 1.0,
+      "comment_phrase": "8 pages",
+      "use_submittedDate_filter": true
+    }    
+  ]
+}
