@@ -1,6 +1,6 @@
-# The repository contains all the materials for the manuscript
+# The Same Paper, Different Verdict: Contextual Bias in LLM-Based Manuscript Evaluation
 
-"The Same Paper, Different Verdict: Contextual Bias in LLM-Based Manuscript Evaluation"
+Repository contains all the materials for the manuscript
 
 ## Content
 
