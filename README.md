@@ -19,5 +19,5 @@ Full reference to the paper:
 	issn = {2731-0809},
 	journal = {Discover Artificial Intelligence},
 	title = {Author Metadata Affects Large Language Model Scores in Scientific Peer Review},
-	year = {2026},
+	year = {In press},
 }
